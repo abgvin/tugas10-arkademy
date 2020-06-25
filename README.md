@@ -1,6 +1,11 @@
 ## Site Screenshoot
+Index
 ![screenshot](https://github.com/abgvin/tugas10-arkademy/blob/master/public/ss/index.png)
+
+Add Data
 ![screenshot](https://github.com/abgvin/tugas10-arkademy/blob/master/public/ss/create.png)
+
+Edit Data
 ![screenshot](https://github.com/abgvin/tugas10-arkademy/blob/master/public/ss/edit.png)
 
 
