@@ -1,3 +1,10 @@
+## Site Screenshoot
+![screenshot](https://github.com/abgvin/tugas10-arkademy/blob/master/public/ss/index.png)
+![screenshot](https://github.com/abgvin/tugas10-arkademy/blob/master/public/ss/create.png)
+![screenshot](https://github.com/abgvin/tugas10-arkademy/blob/master/public/ss/edit.png)
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
